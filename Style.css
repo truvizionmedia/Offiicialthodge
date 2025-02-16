@@ -1,0 +1,47 @@
+body {
+    background-image: url("/Users/truvizionmediagroup/Desktop/Officialthodgelandingpage/blackfamily.png");
+    background-repeat:;
+    max-width: 1000%;
+}
+
+button {
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 15px 32px;
+    background-color: black;
+    border: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color:#60d99c  ;
+}
+
+h1 {
+    color:#60d99c ;
+    text-align: center;
+    text-shadow: 2px 2px black;
+}
+
+p {
+    text-align: center;
+    color: white;
+}
+
+.center-button {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+
+.Toja {
+    display: flex;
+    justify-content: center;
+}
